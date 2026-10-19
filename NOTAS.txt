@@ -1,0 +1,3 @@
+Aprendi muito nesta aula:
+Como usar o gitBASH mais praticamente
+E como passer coisas para o GitHub!
