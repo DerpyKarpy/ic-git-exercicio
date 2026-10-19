@@ -6,3 +6,6 @@ Este é um projeto de teste. Será que alguma vez vou ler isto outra vez?
 
 * abrir
 * ler
+
+## O que aprendi:
+uhhhhhhhhhhhhh
